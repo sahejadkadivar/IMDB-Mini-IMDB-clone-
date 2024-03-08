@@ -52,6 +52,13 @@ To remove a movie from your favorites list, navigate to the "Favourites" page by
 To view detailed information about a specific movie, click on the "know More" button on the movie card. This will take you to a dedicated page where you can find information such as the movie's title, release year, genre, IMDb rating, director, stars, and a brief plot summary.
  IMDb rating, director, stars, and a brief plot summary.
 
+## Screenshots
+
+![Screenshot 1](images/Screenshots/SS_1.png)
+![Screenshot 2](images/Screenshots/SS_2.png)
+![Screenshot 3](images/Screenshots/SS_3.png)
+![Screenshot 4](images/Screenshots/SS_4.png)
+
 ## Contributing
 Feel free to contribute to this project by creating issues or submitting pull requests. Your contributions are welcome!
 ## Demo
