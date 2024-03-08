@@ -57,7 +57,7 @@ Feel free to contribute to this project by creating issues or submitting pull re
 ## Demo
 
 link for trial is:
-[https://github.com/sahejadkadivar](link_to_be_update_after_hoisting)
+[https://github.com/sahejadkadivar](https://sahejadkadivar.github.io/IMDB-Mini-IMDB-clone-/)
 
 ## Authors
 
