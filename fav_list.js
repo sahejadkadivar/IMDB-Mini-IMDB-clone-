@@ -32,7 +32,7 @@ function removeFav(imdbID) {
 
         favouritesList.splice(indexToRemove, 1);
         localStorage.setItem('favourites', JSON.stringify(favouritesList));
-        alert(`${removedMovieTitle} is removed successfully from your favourites`);
+        alert(`${removedMovieTitle} is successfully removed  from your favourites`);
     }
     displayFav();
 }

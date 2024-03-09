@@ -109,7 +109,7 @@ async function addToFavorites(id) {
         if (!favouritesList.some(m => m.imdbID == movie.imdbID)) {
             favouritesList.push(movie);
             localStorage.setItem('favourites', JSON.stringify(favouritesList));
-            alert(`${movie.Title} is added successfully to your favourites`);
+            alert(`${movie.Title} is successfully added  to your favourites`);
         }
         else {
             alert(`${movie.Title} is already in your favourites`);
