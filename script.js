@@ -82,7 +82,7 @@ async function displayMovies(movies) {
             <div class="movie-card">
             <img src="${movie.Poster}" class="card-img-top" alt="${movie.Title}" title="Movie poster">
                 <h4 title="Movie Title">${limitTextToLetters(movie.Title, 16)}</h4>
-                <button class="btn btn-success btn-sm remove-button" title="Click button to add movie in favourite movie list" onclick="addToFavorites('${movie.imdbID}')">Add Favourites</button>
+                <button class="btn btn-success btn-sm remove-button" title="Click button to add movie in favourite movie list" onclick="addToFavorites('${movie.imdbID}')">Add to Favourites</button>
                 <a href="movie_detail.html?id=${movie.imdbID}" class="btn btn-secondary btn-sm more-button" title="Click button to know more about movie">know More</a>
             </div>
             </div>
